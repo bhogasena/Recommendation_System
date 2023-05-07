@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/81a662f6-14b7-4f82-90b4-ae2608e244c4/resourceGroups/DSCUSNORAMIPAA/providers/Microsoft.Web/sites/product-recommendation-system",
+    "appService.deploySubpath": "."
+}

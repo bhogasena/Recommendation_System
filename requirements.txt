@@ -1,0 +1,16 @@
+Flask
+nltk
+numpy
+pandas
+gunicorn
+scikit-learn
+xgboost
+plotly
+matplotlib
+seaborn
+imblearn
+ipykernel
+nbformat
+plotly-express
+wordcloud
+scipy
